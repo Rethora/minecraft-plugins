@@ -1,0 +1,13 @@
+name: CustomItems
+version: '${project.version}'
+main: com.gmail.rethoracle.customitems.CustomItems
+api-version: 1.18
+authors: [ Rethoracle ]
+description: A 1.18.1 Java Minecraft Plugin for custom in game items.
+commands:
+  givecustomitem:
+    description: Gives target player a custom item.
+    usage: /<command> <target> <item>
+  updates:
+    description: Info about updates.
+    usage: /<command> <updateName>

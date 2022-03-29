@@ -1,0 +1,6 @@
+name: CustomMobs
+version: '${project.version}'
+main: com.gmail.rethoracle.custommobs.CustomMobs
+api-version: 1.18
+authors: [ Rethoracle ]
+description: This is a 1.18.1 Java Minecraft Plugin for custom mobs/entities.

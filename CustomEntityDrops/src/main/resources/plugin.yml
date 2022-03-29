@@ -1,0 +1,6 @@
+name: CustomEntityDrops
+version: '${project.version}'
+main: com.gmail.rethoracle.customentitydrops.CustomEntityDrops
+api-version: 1.18
+authors: [ Rethoracle ]
+description: A Java Minecraft 1.18.1 plugin that has custom animal drops.

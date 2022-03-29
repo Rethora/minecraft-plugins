@@ -1,0 +1,6 @@
+name: CustomFishingItems
+version: '${project.version}'
+main: com.gmail.rethoralce.customfishingitems.CustomFishingItems
+api-version: 1.18
+authors: [ Rethoracle ]
+description: A 1.18.1 Java Minecraft plugin that add new loot possibilites while fishing.

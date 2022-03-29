@@ -1,0 +1,6 @@
+name: ScoreKeeper
+version: '${project.version}'
+main: com.gmail.rethoracle.scorekeeper.ScoreKeeper
+api-version: 1.18
+authors: [ Rethoracle ]
+description: A Java Minecraft Plugin for keeping score of PvP game in world.
